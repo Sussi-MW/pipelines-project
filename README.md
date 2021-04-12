@@ -3,7 +3,13 @@
 
 ## Goal:
 
-The goal of this project is to make an executable file that allows the combined analysis of a selected data set enriched with the search for information from related APIs. The executable is based on the definition of functions that allow importing a data set and using data management skills to clean it and prepare it for analysis.
+The goal of this project is to make an executable file that grant the combined analysis of a selected data set enriched with the search for information from related APIs. The pipeline is based on the definition of functions that allow importing a data set and using data management skills to clean it and prepare it for analysis.
+
+---
+
+## **Hypothesis**
+
+Most of the movies that are in the top 1000 IMDB_Rating have English original language.
 
 ---
 

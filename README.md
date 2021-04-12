@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Sussi-MW/pipelines-project/blob/master/Portada.jpg" width="100" height="100">
+<img src="https://github.com/Sussi-MW/pipelines-project/blob/master/Portada.jpg" width="500" height="200">
 
 # Project: Data Pipeline
 ## by Susana Martin Wanton

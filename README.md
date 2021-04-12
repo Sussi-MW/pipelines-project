@@ -1,3 +1,6 @@
+
+<img src="https://github.com/Sussi-MW/pipelines-project/blob/master/Portada.jpg" width="1000" height="400">
+
 # Project: Data Pipeline
 ## by Susana Martin Wanton
 

@@ -1,4 +1,4 @@
-![portada](https://github.com/Sussi-MW/pipelines-project/blob/master/Portada.jpg?v=4&s=200)
+![portada](https://github.com/Sussi-MW/pipelines-project/blob/master/Portada.jpg?s=200)
 
 # Project: Data Pipeline
 ## by Susana Martin Wanton

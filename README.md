@@ -1,4 +1,5 @@
-![portada](https://github.com/Sussi-MW/pipelines-project/blob/master/Portada.jpg?s=200)
+
+<img src="https://github.com/Sussi-MW/pipelines-project/blob/master/Portada.jpg" width="100" height="100">
 
 # Project: Data Pipeline
 ## by Susana Martin Wanton
